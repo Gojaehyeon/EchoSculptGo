@@ -13,7 +13,8 @@ Existing sound-to-text apps focus on "information" (speech). However, sound is a
 - **Haptic Echo**: Taptic Engine pulses synchronized with the visual "sculpture" to provide a tactile sense of the sound's rhythm.
 
 ## 4. Technical Stack
-- **UI**: SwiftUI (using 2025 Liquid Glass modifiers)
+- **Platform**: iOS 26+
+- **UI**: SwiftUI (using 2026 Liquid Glass modifiers)
 - **3D Engine**: RealityKit + Metal
 - **AI/ML**: Core ML (Sound Analysis) + Foundation Models (Contextual reasoning)
 - **Haptics**: Core Haptics
