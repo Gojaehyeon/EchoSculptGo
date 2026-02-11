@@ -1,7 +1,7 @@
-# PRD - EchoSculpt Go
+# PRD - Soom
 
 ## 1. Project Vision
-**EchoSculpt Go** aims to bridge the sensory gap for the hearing impaired by transforming sound into "Echo Sculptures"—fluid, 3D visual representations that capture not just the presence of sound, but its texture, emotion, and intensity. Using the 2026 Liquid Glass design language, it creates an intuitive, artistic, and functional accessibility experience.
+**Soom** (숨, meaning "breath" in Korean) aims to bridge the sensory gap for the hearing impaired by transforming sound into "Echo Sculptures"—fluid, 3D visual representations that capture not just the presence of sound, but its texture, emotion, and intensity. Using the 2026 Liquid Glass design language, it creates an intuitive, artistic, and functional accessibility experience.
 
 ## 2. Problem Statement
 Existing sound-to-text apps focus on "information" (speech). However, sound is also "atmosphere" and "emotion." The hearing impaired miss out on the laughter at a party, the intensity of a siren, or the calm of a rainy day.
